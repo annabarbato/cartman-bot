@@ -2,7 +2,7 @@
 
 A GitHub bot that automatically comments on your pull requests with Eric Cartman quotes from South Park.
 
-When you open a PR, update it, request a review, get approved, get changes requested, or close it -- Cartman has something to say.
+When you open a PR, update it, request a review, get approved, get changes requested, or close it, Cartman comments.
 
 ---
 
